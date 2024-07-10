@@ -106,8 +106,8 @@ test\             # integration test (nestjs/testing)
 -
 
 ``인증 관련``
-- [x] 회원가입
-- [x] 로그인 / 로그아웃
+- [x] 회원가입 [user/signup]
+- [x] 로그인 [user/login]
 
 ``송금``
 - [x] 송금 견적서 요청 [transfer/quote]
